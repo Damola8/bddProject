@@ -1,0 +1,7 @@
+#Cypress Artifacts
+cypress/videos
+cypress/screenshots
+dist/
+cypress/reports/
+node_modules
+
